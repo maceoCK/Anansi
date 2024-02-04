@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "198819212675",
+    "project_id": "network-spinner-yslhg7",
+    "storage_bucket": "network-spinner-yslhg7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198819212675:android:b3ddaa952661d4bd775ab6",
+        "android_client_info": {
+          "package_name": "com.mycompany.networkspinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198819212675-nltviglit6eo5ijcvenk9trm2p1klf2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.networkspinner",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "198819212675-haakjrvbmgan764hadb4rj2dquvbf27k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPd3JXHY3el0K1MC4RR6GFX1PT6ZR6-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198819212675-haakjrvbmgan764hadb4rj2dquvbf27k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198819212675-otc9hljs9slp6dsoj0d6kk1omjq24ama.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.networkspinner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
