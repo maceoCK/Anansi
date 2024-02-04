@@ -1,4 +1,4 @@
-# NetworkSpinner
+# Anansi
 
 A new Flutter project.
 
